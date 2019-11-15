@@ -1,0 +1,3 @@
+module TeamsIncomingClients
+  VERSION = "1.0.0"
+end
