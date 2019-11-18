@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    teams_incoming_clients (1.0.0)
+    teams_incoming_clients (1.0.1)
       holiday_japan
 
 GEM

@@ -1,3 +1,4 @@
+require_relative "./policies/date_policy"
 module TeamsIncomingClients
   module Dates
     class DateClient
